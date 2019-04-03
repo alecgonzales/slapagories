@@ -20,3 +20,6 @@ https://www.udemy.com/hmtl5-training/
 
 - SQL Basics
 https://www.udemy.com/sql-for-beginners-s/
+https://www.w3schools.com/sql/
+
+
