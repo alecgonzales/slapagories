@@ -9,3 +9,4 @@ Trainings:
 - Web basics?
 - React
 - SpringBoot
+- Intro to Trello and Scrum
