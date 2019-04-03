@@ -9,4 +9,4 @@ Trainings:
 - Web basics?
 - React
 - SpringBoot
-- Intro to Trello and Scrum
+- Intro to Trello and Scrum (Apr 6, 2019 - Saturday)
