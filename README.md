@@ -1,13 +1,17 @@
 # slapagories
-TODO: Add a description
+This is an attempt to create a web app that implements the game Slapagories. This project is designed to maximize learning for all collaborators :) 
+
+Don't be afraid to ask questions! Have fun!
 
 Trello Board
 https://trello.com/b/G7aiknpc/slapagories
 
 Trainings:
-- GIT (https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+- GIT:
+https://www.youtube.com/watch?v=SWYqp7iY_Tc
 - Web basics?
-- React
+- React:
+https://reactjs.org/tutorial/tutorial.html
 - SpringBoot
 - Intro to Trello and Scrum (Apr 6, 2019 - Saturday)
 
