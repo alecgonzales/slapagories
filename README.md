@@ -3,6 +3,7 @@ This is an attempt to create a web app that implements the game Slapagories. Thi
 
 Don't be afraid to ask questions! Have fun!
 
+## INFO
 Trello Board
 https://trello.com/b/G7aiknpc/slapagories
 
@@ -25,5 +26,10 @@ https://www.udemy.com/hmtl5-training/
 - SQL Basics
 	- https://www.udemy.com/sql-for-beginners-s/
 	- https://www.w3schools.com/sql/
+	
+## SETUP
+
+- Install Node.js:
+https://nodejs.org/en/
 
 
